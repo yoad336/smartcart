@@ -83,8 +83,8 @@ SMARTCART היא מערכת לקבלת החלטת קנייה, ולא עוד כל
 > _הוסיפו כאן 3–4 צילומי מסך של האפליקציה החיה (דף הבית, יצירת רשימה, השוואת מחירים, הסל החכם)._
 
 | דף הבית | השוואת מחירים | הסל החכם |
-|---|---|---|
-| _screenshot_ | _screenshot_ | _screenshot_ |
+<img width="593" height="905" alt="image" src="https://github.com/user-attachments/assets/c07c461c-7dbc-4bbe-9e6b-fd64718e5f2a" />
+
 
 ## 📁 מבנה הפרויקט
 
